@@ -1,1 +1,1 @@
-# Process-Scheduling-Algorithms
+# ProcessSchedulingAlgorithms
